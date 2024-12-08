@@ -1,3 +1,3 @@
 @echo on
-"C:\Users\ksree\AppData\Local\Programs\Microsoft VS Code\Code.exe" %cd%
-"C:\Users\ksree\AppData\Local\Programs\Microsoft VS Code\Code.exe" %cd%
+chcp 65001
+"C:\Users\АСУС\AppData\Local\Programs\Microsoft VS Code\Code.exe" %cd%
